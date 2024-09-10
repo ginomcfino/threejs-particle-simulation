@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore development server files
+webpack.config.js
+webpack.dev.js
+webpack.prod.js
+
+# Ignore any generated files or directories
+dist/
+temp/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
