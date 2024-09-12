@@ -1,6 +1,6 @@
-# Three.js Landing Page
+# A Three.js Siumlation
 
-A custom-built landing page made in three.js.
+Implement website utilizing three.js webGPU to compute physics simulation for a set of particle attractors.
 
 ## Installation
 
