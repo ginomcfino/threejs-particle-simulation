@@ -1,6 +1,6 @@
 # Three.js Landing Page
 
-A custom-built landing page made in three.js aimed to simulate the three-body problem.
+A custom-built landing page made in three.js.
 
 ## Installation
 
